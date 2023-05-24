@@ -1,0 +1,7 @@
+v <- c(5, 6, 10, 34, 31, 20)
+m <- max(v)
+m1 <- min(v)
+print("Max number: ")
+print(m)
+print("Min Number: ")
+print(m1)
